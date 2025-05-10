@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Weather-Application/css/tailwind.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\tailwind.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"63"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 23:43:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather-Application/css/tailwind.output.0tasakomot.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\tailwind.output.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0tasakomot"},{"Name":"integrity","Value":"sha256-tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH\u002Bs="},{"Name":"label","Value":"_content/Weather-Application/css/tailwind.output.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 20:09:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather-Application/css/tailwind.output.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\tailwind.output.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH\u002Bs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"15081"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH\u002Bs=\u0022"},{"Name":"Last-Modified","Value":"Sat, 10 May 2025 20:09:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Weather-Application/css/tailwind.p10z1o5xx4.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\tailwind.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"p10z1o5xx4"},{"Name":"integrity","Value":"sha256-/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o="},{"Name":"label","Value":"_content/Weather-Application/css/tailwind.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"63"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 05 May 2025 23:43:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

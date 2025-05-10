@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\learn\\Weather-Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|d:\\learn\\weather-application\\weather-application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|solutionrelative:weather-application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|d:\\learn\\weather-application\\weather-application\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|solutionrelative:weather-application\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|d:\\learn\\weather-application\\weather-application\\tailwind.extension.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|solutionrelative:weather-application\\tailwind.extension.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|d:\\learn\\weather-application\\weather-application\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{E7AD8891-A83B-4542-B34F-28853D5C62CE}|Weather-Application\\Weather-Application.csproj|solutionrelative:weather-application\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{29b59575-67fc-487a-ad50-20c439ec1d21}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\learn\\Weather-Application\\Weather-Application\\package.json",
+              "RelativeDocumentMoniker": "Weather-Application\\package.json",
+              "ToolTip": "D:\\learn\\Weather-Application\\Weather-Application\\package.json",
+              "RelativeToolTip": "Weather-Application\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T23:58:43.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tailwind.extension.json",
+              "DocumentMoniker": "D:\\learn\\Weather-Application\\Weather-Application\\tailwind.extension.json",
+              "RelativeDocumentMoniker": "Weather-Application\\tailwind.extension.json",
+              "ToolTip": "D:\\learn\\Weather-Application\\Weather-Application\\tailwind.extension.json",
+              "RelativeToolTip": "Weather-Application\\tailwind.extension.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T23:56:40.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "D:\\learn\\Weather-Application\\Weather-Application\\tailwind.config.js",
+              "RelativeDocumentMoniker": "Weather-Application\\tailwind.config.js",
+              "ToolTip": "D:\\learn\\Weather-Application\\Weather-Application\\tailwind.config.js",
+              "RelativeToolTip": "Weather-Application\\tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-05T23:53:22.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\learn\\Weather-Application\\Weather-Application\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Weather-Application\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\learn\\Weather-Application\\Weather-Application\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Weather-Application\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T23:50:53.642Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

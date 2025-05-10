@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.title</title>
+    <link rel="stylesheet" href="~/css/tailwind.output.css" asp-append-version="true" />
+</head>
+<body class="bg-gray-200 h-screen">
+<header class="bg-gray-600 text-white py-9">
+    <section class="xs:mx-7  md:mx-7">
+        @await RenderSectionAsync("header", required: false)
+    </section>
+</header>
+
+<main class="xs:mx-7  md:mx-7">
+    <section class="my-24">
+        @if (TempData["message"] != null)
+        {
+            <p class="text-center text-red-500">@TempData["message"]</p>
+            TempData.Remove("message");
+        }
+    </section>
+
+    @RenderBody()
+
+</main>
+</body>
+</html>

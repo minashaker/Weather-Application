@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "reWffgLq/UTwV437IZ7SZhjWapYJ+kE49zGTbxCiA3U=",
+  "Source": "Weather-Application",
+  "BasePath": "_content/Weather-Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weather-Application\\wwwroot",
+      "Source": "Weather-Application",
+      "ContentRoot": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\",
+      "BasePath": "_content/Weather-Application",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\ilco9neel3-0tasakomot.gz",
+      "SourceId": "Weather-Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather-Application",
+      "RelativePath": "css/tailwind.output#[.{fingerprint=0tasakomot}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.output.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "006nldo8td",
+      "Integrity": "4Hg+uv6zYkPyhLkJvVXD/r2/sHqWewGbwFbKxdLI/sQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.output.css"
+    },
+    {
+      "Identity": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\o2n7dtuwz3-p10z1o5xx4.gz",
+      "SourceId": "Weather-Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Weather-Application",
+      "RelativePath": "css/tailwind#[.{fingerprint=p10z1o5xx4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "dr1kak1tqn",
+      "Integrity": "6a9FeocS2PE0WqOWr6/aVSwdsL+IZuMotlKVWfDKRAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.css"
+    },
+    {
+      "Identity": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.css",
+      "SourceId": "Weather-Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\",
+      "BasePath": "_content/Weather-Application",
+      "RelativePath": "css/tailwind#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p10z1o5xx4",
+      "Integrity": "/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\tailwind.css"
+    },
+    {
+      "Identity": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.output.css",
+      "SourceId": "Weather-Application",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\",
+      "BasePath": "_content/Weather-Application",
+      "RelativePath": "css/tailwind.output#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0tasakomot",
+      "Integrity": "tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\tailwind.output.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/tailwind.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\o2n7dtuwz3-p10z1o5xx4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.015384615385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6a9FeocS2PE0WqOWr6/aVSwdsL+IZuMotlKVWfDKRAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 23:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 23:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.css.gz",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\o2n7dtuwz3-p10z1o5xx4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6a9FeocS2PE0WqOWr6/aVSwdsL+IZuMotlKVWfDKRAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 23:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6a9FeocS2PE0WqOWr6/aVSwdsL+IZuMotlKVWfDKRAE="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.output.0tasakomot.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\ilco9neel3-0tasakomot.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000250626566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3989"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Hg+uv6zYkPyhLkJvVXD/r2/sHqWewGbwFbKxdLI/sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0tasakomot"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.output.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.output.0tasakomot.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.output.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0tasakomot"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.output.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.output.0tasakomot.css.gz",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\ilco9neel3-0tasakomot.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Hg+uv6zYkPyhLkJvVXD/r2/sHqWewGbwFbKxdLI/sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0tasakomot"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.output.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Hg+uv6zYkPyhLkJvVXD/r2/sHqWewGbwFbKxdLI/sQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.output.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\ilco9neel3-0tasakomot.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000250626566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3989"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Hg+uv6zYkPyhLkJvVXD/r2/sHqWewGbwFbKxdLI/sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.output.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.output.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15081"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tD94laCP3PhV7NtdkiGEpntO/bL6hpiQeXD/ukzSH+s="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.output.css.gz",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\ilco9neel3-0tasakomot.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3989"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4Hg+uv6zYkPyhLkJvVXD/r2/sHqWewGbwFbKxdLI/sQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 10 May 2025 20:09:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4Hg+uv6zYkPyhLkJvVXD/r2/sHqWewGbwFbKxdLI/sQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.p10z1o5xx4.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\o2n7dtuwz3-p10z1o5xx4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.015384615385"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6a9FeocS2PE0WqOWr6/aVSwdsL+IZuMotlKVWfDKRAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 23:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p10z1o5xx4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.p10z1o5xx4.css",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\wwwroot\\css\\tailwind.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "63"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 23:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p10z1o5xx4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/XsEC/EdudM8K30bUGBM4jdTcAztM/3dtTXAje2Jb2o="
+        }
+      ]
+    },
+    {
+      "Route": "css/tailwind.p10z1o5xx4.css.gz",
+      "AssetFile": "D:\\learn\\Weather-Application\\Weather-Application\\obj\\Debug\\net9.0\\compressed\\o2n7dtuwz3-p10z1o5xx4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6a9FeocS2PE0WqOWr6/aVSwdsL+IZuMotlKVWfDKRAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 23:43:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p10z1o5xx4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/tailwind.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6a9FeocS2PE0WqOWr6/aVSwdsL+IZuMotlKVWfDKRAE="
+        }
+      ]
+    }
+  ]
+}

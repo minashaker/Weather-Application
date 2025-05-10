@@ -1,0 +1,15 @@
+﻿@model CityWeather
+
+<section class="grid md:grid-cols-2 border-2 border-black md:h-44 lg:h-56  @CssManipulationHelpers.ChangeBackgroundColorOnUniqueCityCode(Model.CityUniqueCode) py-4 items-center">
+    <section class="border-gray-300 h-full px-9 py-9 xs:border-b-4 md:border-b-0 md:border-r-4">
+        <h1 class="md:text-3xl xs:text-2xl lg:text-4xl xl:text-6xl font-bold">@Model.CityName</h1>
+        <p class="text-gray-300 lg:text-3xl font-bold">@Model.DateAndTime?.ToShortTimeString()</p>
+    </section>
+    <section class="h-full px-9 py-9">
+        <p class="font-bold xs:text-2xl  md:text-4xl ">@Model.TemperatureFahrenheit <span>F</span></p>
+    </section>
+</section>
+<section class="grid sm:justify-center mt-5">
+    <a class="px-9 py-9 border-0 w-60 text-center text-white rounded-md shadow-lg @CssManipulationHelpers.ChangeBackgroundColorOnUniqueCityCode(Model.CityUniqueCode)" asp-controller="Home" asp-action="Index">Back</a>
+</section>
+

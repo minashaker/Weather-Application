@@ -1,0 +1,25 @@
+﻿@model CityWeatherViewModel
+
+@if (@Model.CityWeather != null)
+{
+    foreach (CityWeather weather in Model.CityWeather)
+    {
+        <section class="xs:w-full grid md:grid-cols-2 border-1 border-black md:h-44 lg:h-56 @CssManipulationHelpers.ChangeBackgroundColorOnUniqueCityCode(@weather.CityUniqueCode) py-4 items-center">
+            <section class="border-gray-300 h-full px-9 py-9  xs:border-b-4 md:border-b-0 md:border-r-4">
+                <h1 class="md:text-3xl xs:text-2xl lg:text-4xl xl:text-6xl font-bold">@weather.CityName</h1>
+                <p class="text-gray-200 lg:text-3xl font-bold">@weather.DateAndTime?.ToShortTimeString()</p>
+                <a class="text-blue-700 lg:text-2xl" asp-controller="Home" asp-action="Details" asp-route-uniqueCode="@weather.CityUniqueCode" >Details</a>
+            </section>
+            <section class="h-full px-9 py-9">
+                <p class="font-bold xs:text-2xl  md:text-4xl ">@weather.TemperatureFahrenheit <span>F</span></p>
+            </section>
+        </section>
+    }
+}
+else
+{
+    <div class="grid col-span-3 place-items-center">
+        <p class="text-center font-bold text-red-500">No Data</p>
+    </div>
+}
+
